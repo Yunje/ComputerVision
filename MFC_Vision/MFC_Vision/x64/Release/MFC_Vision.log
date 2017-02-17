@@ -1,0 +1,36 @@
+﻿Build started 2017-02-18 오전 12:39:47.
+     1>Project "C:\Users\yunje\Documents\GitHub\ComputerVision\MFC_Vision\MFC_Vision\MFC_Vision.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\MFC_Vision.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt ChildFrm.cpp ClassView.cpp FileView.cpp MFC_Vision.cpp MFC_VisionDoc.cpp MFC_VisionView.cpp MainFrm.cpp OutputWnd.cpp PropertiesWnd.cpp
+         ChildFrm.cpp
+         ClassView.cpp
+         FileView.cpp
+         MFC_Vision.cpp
+         MFC_VisionDoc.cpp
+         MFC_VisionView.cpp
+         MainFrm.cpp
+         OutputWnd.cpp
+         PropertiesWnd.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0412" /Ix64\Release\ /nologo /fo"x64\Release\MFC_Vision.res" MFC_Vision.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yunje\Documents\GitHub\ComputerVision\MFC_Vision\x64\Release\MFC_Vision.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\yunje\Documents\GitHub\ComputerVision\MFC_Vision\x64\Release\MFC_Vision.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yunje\Documents\GitHub\ComputerVision\MFC_Vision\x64\Release\MFC_Vision.lib" /MACHINE:X64 x64\Release\MFC_Vision.res
+         x64\Release\ChildFrm.obj
+         x64\Release\ClassView.obj
+         x64\Release\FileView.obj
+         x64\Release\MainFrm.obj
+         x64\Release\MFC_Vision.obj
+         x64\Release\MFC_VisionDoc.obj
+         x64\Release\MFC_VisionView.obj
+         x64\Release\OutputWnd.obj
+         x64\Release\PropertiesWnd.obj
+         x64\Release\stdafx.obj
+         x64\Release\ViewTree.obj
+         Generating code
+         Finished generating code
+         MFC_Vision.vcxproj -> C:\Users\yunje\Documents\GitHub\ComputerVision\MFC_Vision\x64\Release\MFC_Vision.exe
+     1>Done Building Project "C:\Users\yunje\Documents\GitHub\ComputerVision\MFC_Vision\MFC_Vision\MFC_Vision.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.24
