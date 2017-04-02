@@ -1,0 +1,10 @@
+#ifndef VISIONLIBRARYPROJECT_MACHINE_VISION_LIB_H__
+#define VISIONLIBRARYPROJECT_MACHINE_VISION_LIB_H__
+
+namespace mvl{
+
+
+
+}
+
+#endif
